@@ -15,5 +15,8 @@ To write a YACC program to recognize a valid variable which starts with a letter
 8.	Enter a statement as input and the valid variables are identified as output.
 ## PROGRAM
 ## Output
+<img width="444" height="108" alt="image" src="https://github.com/user-attachments/assets/14d06c3f-ba45-41ce-9086-e6bd7158bb2e" />
+![Uploading image.png…]()
+
 ## Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
